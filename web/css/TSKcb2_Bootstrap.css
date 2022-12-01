@@ -1,0 +1,36 @@
+.ParNav{
+      background-color: rgb(36, 35, 35);   
+    } 
+
+.nav{
+      margin-left: 10%;
+}
+
+.nav li{
+      padding-top: 7px;
+      padding-bottom: 7px;
+}
+
+#nam{
+      color: white;
+}
+
+#nam2{
+      color: grey;
+}
+
+#JDL1{
+
+}
+
+#PSW1{
+      
+      color: black;
+      text-align: center;
+}
+
+#b1{
+      background-color: #e8ecef;
+
+}
+

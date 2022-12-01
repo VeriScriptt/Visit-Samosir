@@ -1,0 +1,10 @@
+.bg-light {
+  background-color: rgb(133, 151, 63) !important;
+}
+.banner {
+  background: url(https://asset.kompas.com/crops/53ZSwUoxA1phCb8q8hhvR-z2Wm4=/0x0:1999x1333/750x500/data/photo/2021/04/07/606ccefc2173f.png) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
